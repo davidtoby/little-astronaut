@@ -8,6 +8,16 @@
 
 **This implementation is on `feat/bilingual-narration`. The repository’s existing `main` contains a different implementation and has been preserved.**
 
+## 版本 B 首页预览 / Version B homepage previews
+
+### 中文首页 / Chinese homepage
+
+![版本 B：中文首页 / Version B: Chinese homepage](docs/images/homepage-zh.png)
+
+### 英文首页 / English homepage
+
+![版本 B：英文首页 / Version B: English homepage](docs/images/homepage-en.png)
+
 ---
 
 ## 中文说明
