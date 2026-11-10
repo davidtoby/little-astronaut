@@ -4,6 +4,10 @@
 
 [中文说明](#中文说明) · [English guide](#english-guide)
 
+**本实现位于 `feat/bilingual-narration` 分支。仓库已有的 `main` 是另一个实现，未被覆盖。**
+
+**This implementation is on `feat/bilingual-narration`. The repository’s existing `main` contains a different implementation and has been preserved.**
+
 ---
 
 ## 中文说明
@@ -46,7 +50,7 @@
 需要 **Node.js 18 或更新版本**；推荐近期 Node.js LTS。启动已经构建好的网页，不需要 Python、API Key 或 `npm install`。
 
 ```sh
-git clone https://github.com/davidtoby/little-astronaut.git
+git clone --branch feat/bilingual-narration https://github.com/davidtoby/little-astronaut.git
 cd little-astronaut
 npm start
 ```
@@ -209,7 +213,7 @@ Green arrows show forward motion. Peach arrows show Earth’s gravity.
 Use **Node.js 18+**, preferably a recent LTS release. The committed `dist/` is ready to run: no Python, API key, or npm dependency installation is required just to serve it.
 
 ```sh
-git clone https://github.com/davidtoby/little-astronaut.git
+git clone --branch feat/bilingual-narration https://github.com/davidtoby/little-astronaut.git
 cd little-astronaut
 npm start
 # Equivalent:
