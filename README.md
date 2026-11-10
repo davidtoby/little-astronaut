@@ -6,7 +6,9 @@
 
 A bilingual astronomy playground for young children and their grown-ups: meet the Solar System, launch a little rocket and listen to natural female narration. Run it on a computer and open it on an iPad on the same local network.
 
-![首页预览 / Homepage preview](docs/images/homepage.png)
+![中文首页 / Chinese homepage](docs/images/homepage.png)
+
+![英文首页 / English homepage](docs/images/homepage-en.png)
 
 ## 中文说明
 
