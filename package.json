@@ -1,0 +1,23 @@
+{
+  "name": "little-astronaut",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bilingual Chinese/English solar-system playground with local female narration for children and families",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.mjs",
+    "stop": "node manage.mjs stop",
+    "status": "node manage.mjs status",
+    "test": "node tests/browser.mjs",
+    "audio:generate": "node scripts/generate-audio.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "playwright": "1.58.2"
+  }
+}

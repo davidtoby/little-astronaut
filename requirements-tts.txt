@@ -1,0 +1,2 @@
+# Optional build-time speech generation only. Not needed to run the website.
+edge-tts==7.3.1

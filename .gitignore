@@ -1,0 +1,10 @@
+node_modules/
+.tts-venv/
+.runtime/
+__pycache__/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+tests/screenshots/
