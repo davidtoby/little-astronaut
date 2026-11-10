@@ -1,0 +1,476 @@
+{
+  "version": 2,
+  "defaultVoice": "teacher",
+  "voices": {
+    "teacher": {
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "name": "温柔老师",
+      "language": "zh",
+      "rate": "-10%",
+      "pitch": "+0Hz"
+    },
+    "sister": {
+      "voice": "zh-CN-XiaoyiNeural",
+      "name": "活泼姐姐",
+      "language": "zh",
+      "rate": "-8%",
+      "pitch": "+0Hz"
+    },
+    "en-teacher": {
+      "voice": "en-GB-SoniaNeural",
+      "name": "Gentle teacher",
+      "language": "en",
+      "rate": "-10%",
+      "pitch": "+0Hz"
+    },
+    "en-sister": {
+      "voice": "en-GB-LibbyNeural",
+      "name": "Cheerful friend",
+      "language": "en",
+      "rate": "-8%",
+      "pitch": "+0Hz"
+    }
+  },
+  "clips": {
+    "你好，我是太阳！我会发光、发热。八颗行星都围着我转圈圈。": {
+      "teacher": {
+        "src": "audio/teacher-planet-0.mp3",
+        "duration": 7.968,
+        "spokenText": "你好，我是太阳！我会发光、发热。八颗行星都围着我转圈圈。"
+      },
+      "sister": {
+        "src": "audio/sister-planet-0.mp3",
+        "duration": 7.872,
+        "spokenText": "你好，我是太阳！我会发光、发热。八颗行星都围着我转圈圈。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-0.mp3",
+        "duration": 7.104,
+        "spokenText": "Hello, I’m the Sun! I shine and give out warmth. Eight planets travel around me."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-0.mp3",
+        "duration": 8.568,
+        "spokenText": "Hello, I’m the Sun! I shine and give out warmth. Eight planets travel around me."
+      }
+    },
+    "我是小小的水星。我住得离太阳最近，绕太阳跑得很快！": {
+      "teacher": {
+        "src": "audio/teacher-planet-1.mp3",
+        "duration": 6.36,
+        "spokenText": "我是小小的水星。我住得离太阳最近，绕太阳跑得很快！"
+      },
+      "sister": {
+        "src": "audio/sister-planet-1.mp3",
+        "duration": 6.048,
+        "spokenText": "我是小小的水星。我住得离太阳最近，绕太阳跑得很快！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-1.mp3",
+        "duration": 6.552,
+        "spokenText": "I’m little Mercury. I live closest to the Sun, and I travel around it very quickly!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-1.mp3",
+        "duration": 7.392,
+        "spokenText": "I’m little Mercury. I live closest to the Sun, and I travel around it very quickly!"
+      }
+    },
+    "我是金星，穿着厚厚的云衣服。我的地面非常非常热！": {
+      "teacher": {
+        "src": "audio/teacher-planet-2.mp3",
+        "duration": 6.144,
+        "spokenText": "我是金星，穿着厚厚的云衣服。我的地面非常非常热！"
+      },
+      "sister": {
+        "src": "audio/sister-planet-2.mp3",
+        "duration": 5.88,
+        "spokenText": "我是金星，穿着厚厚的云衣服。我的地面非常非常热！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-2.mp3",
+        "duration": 7.176,
+        "spokenText": "I’m Venus. I wear a thick blanket of clouds. My ground is very, very hot!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-2.mp3",
+        "duration": 8.592,
+        "spokenText": "I’m Venus. I wear a thick blanket of clouds. My ground is very, very hot!"
+      }
+    },
+    "我是地球！蓝蓝的是大海，绿绿的是陆地。你和家人就住在我身上。": {
+      "teacher": {
+        "src": "audio/teacher-planet-3.mp3",
+        "duration": 8.184,
+        "spokenText": "我是地球！蓝蓝的是大海，绿绿的是陆地。你和家人就住在我身上。"
+      },
+      "sister": {
+        "src": "audio/sister-planet-3.mp3",
+        "duration": 7.944,
+        "spokenText": "我是地球！蓝蓝的是大海，绿绿的是陆地。你和家人就住在我身上。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-3.mp3",
+        "duration": 7.176,
+        "spokenText": "I’m Earth! My oceans are blue and my land is green. You and your family live here with me."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-3.mp3",
+        "duration": 8.928,
+        "spokenText": "I’m Earth! My oceans are blue and my land is green. You and your family live here with me."
+      }
+    },
+    "我是火星，看起来红红的。小机器人正在我的地面上探索呢！": {
+      "teacher": {
+        "src": "audio/teacher-planet-4.mp3",
+        "duration": 6.72,
+        "spokenText": "我是火星，看起来红红的。小机器人正在我的地面上探索呢！"
+      },
+      "sister": {
+        "src": "audio/sister-planet-4.mp3",
+        "duration": 6.888,
+        "spokenText": "我是火星，看起来红红的。小机器人正在我的地面上探索呢！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-4.mp3",
+        "duration": 5.856,
+        "spokenText": "I’m Mars, the red planet. Little robots are exploring my ground!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-4.mp3",
+        "duration": 6.528,
+        "spokenText": "I’m Mars, the red planet. Little robots are exploring my ground!"
+      }
+    },
+    "我是大大的木星。我身上有一道道条纹，还有一个大大的风暴！": {
+      "teacher": {
+        "src": "audio/teacher-planet-5.mp3",
+        "duration": 6.72,
+        "spokenText": "我是大大的木星。我身上有一道道条纹，还有一个大大的风暴！"
+      },
+      "sister": {
+        "src": "audio/sister-planet-5.mp3",
+        "duration": 6.168,
+        "spokenText": "我是大大的木星。我身上有一道道条纹，还有一个大大的风暴！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-5.mp3",
+        "duration": 5.424,
+        "spokenText": "I’m big Jupiter. I have colourful stripes and a very big storm!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-5.mp3",
+        "duration": 5.976,
+        "spokenText": "I’m big Jupiter. I have colourful stripes and a very big storm!"
+      }
+    },
+    "我是土星！我戴着漂亮的环，环里有好多冰块和小石头。": {
+      "teacher": {
+        "src": "audio/teacher-planet-6.mp3",
+        "duration": 6.816,
+        "spokenText": "我是土星！我戴着漂亮的环，环里有好多冰块和小石头。"
+      },
+      "sister": {
+        "src": "audio/sister-planet-6.mp3",
+        "duration": 6.384,
+        "spokenText": "我是土星！我戴着漂亮的环，环里有好多冰块和小石头。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-6.mp3",
+        "duration": 6.504,
+        "spokenText": "I’m Saturn! I wear beautiful rings made of lots of icy pieces and little rocks."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-6.mp3",
+        "duration": 7.536,
+        "spokenText": "I’m Saturn! I wear beautiful rings made of lots of icy pieces and little rocks."
+      }
+    },
+    "我是天王星，穿着蓝绿色衣服。我歪得很厉害，像躺着一样！": {
+      "teacher": {
+        "src": "audio/teacher-planet-7.mp3",
+        "duration": 6.864,
+        "spokenText": "我是天王星，穿着蓝绿色衣服。我歪得很厉害，像躺着一样！"
+      },
+      "sister": {
+        "src": "audio/sister-planet-7.mp3",
+        "duration": 6.528,
+        "spokenText": "我是天王星，穿着蓝绿色衣服。我歪得很厉害，像躺着一样！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-7.mp3",
+        "duration": 7.584,
+        "spokenText": "I’m Uranus. I’m blue-green, and I’m tilted so far over that I look as if I’m lying on my side!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-7.mp3",
+        "duration": 8.472,
+        "spokenText": "I’m Uranus. I’m blue-green, and I’m tilted so far over that I look as if I’m lying on my side!"
+      }
+    },
+    "我是海王星。我离太阳最远，蓝蓝的身上刮着很大的风。": {
+      "teacher": {
+        "src": "audio/teacher-planet-8.mp3",
+        "duration": 6.624,
+        "spokenText": "我是海王星。我离太阳最远，蓝蓝的身上刮着很大的风。"
+      },
+      "sister": {
+        "src": "audio/sister-planet-8.mp3",
+        "duration": 6.192,
+        "spokenText": "我是海王星。我离太阳最远，蓝蓝的身上刮着很大的风。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-planet-8.mp3",
+        "duration": 6.576,
+        "spokenText": "I’m Neptune. I’m the planet farthest from the Sun. I’m blue and very windy!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-planet-8.mp3",
+        "duration": 7.824,
+        "spokenText": "I’m Neptune. I’m the planet farthest from the Sun. I’m blue and very windy!"
+      }
+    },
+    "火箭喷出热热的气体，把自己向上推。我们离开地面，飞高一点！": {
+      "teacher": {
+        "src": "audio/teacher-stage-0.mp3",
+        "duration": 7.416,
+        "spokenText": "火箭喷出热热的气体，把自己向上推。我们离开地面，飞高一点！"
+      },
+      "sister": {
+        "src": "audio/sister-stage-0.mp3",
+        "duration": 7.176,
+        "spokenText": "火箭喷出热热的气体，把自己向上推。我们离开地面，飞高一点！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-stage-0.mp3",
+        "duration": 7.248,
+        "spokenText": "The rocket pushes hot gas down, which pushes the rocket up. We leave the ground and climb higher!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-stage-0.mp3",
+        "duration": 7.896,
+        "spokenText": "The rocket pushes hot gas down, which pushes the rocket up. We leave the ground and climb higher!"
+      }
+    },
+    "火箭飞高了，慢慢转弯。它开始向旁边飞，还要继续加速！": {
+      "teacher": {
+        "src": "audio/teacher-stage-1.mp3",
+        "duration": 6.84,
+        "spokenText": "火箭飞高了，慢慢转弯。它开始向旁边飞，还要继续加速！"
+      },
+      "sister": {
+        "src": "audio/sister-stage-1.mp3",
+        "duration": 6.72,
+        "spokenText": "火箭飞高了，慢慢转弯。它开始向旁边飞，还要继续加速！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-stage-1.mp3",
+        "duration": 7.872,
+        "spokenText": "The rocket is higher now. It turns gently and starts flying sideways. We still need to speed up!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-stage-1.mp3",
+        "duration": 9.672,
+        "spokenText": "The rocket is higher now. It turns gently and starts flying sideways. We still need to speed up!"
+      }
+    },
+    "用完的火箭部分先分开。上面的发动机继续推，让飞船向旁边飞得越来越快！": {
+      "teacher": {
+        "src": "audio/teacher-stage-2.mp3",
+        "duration": 8.52,
+        "spokenText": "用完的火箭部分先分开。上面的发动机继续推，让飞船向旁边飞得越来越快！"
+      },
+      "sister": {
+        "src": "audio/sister-stage-2.mp3",
+        "duration": 8.088,
+        "spokenText": "用完的火箭部分先分开。上面的发动机继续推，让飞船向旁边飞得越来越快！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-stage-2.mp3",
+        "duration": 9.216,
+        "spokenText": "The empty part of the rocket separates. The engine above keeps pushing, so the spacecraft goes faster and faster sideways!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-stage-2.mp3",
+        "duration": 10.368,
+        "spokenText": "The empty part of the rocket separates. The engine above keeps pushing, so the spacecraft goes faster and faster sideways!"
+      }
+    },
+    "速度够啦！发动机停下来，飞船和上面的火箭分开，继续向前飞。": {
+      "teacher": {
+        "src": "audio/teacher-stage-3.mp3",
+        "duration": 7.608,
+        "spokenText": "速度够啦！发动机停下来，飞船和上面的火箭分开，继续向前飞。"
+      },
+      "sister": {
+        "src": "audio/sister-stage-3.mp3",
+        "duration": 7.512,
+        "spokenText": "速度够啦！发动机停下来，飞船和上面的火箭分开，继续向前飞。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-stage-3.mp3",
+        "duration": 8.472,
+        "spokenText": "We’re fast enough now! The engine stops. The spacecraft separates from the rocket and keeps moving forwards."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-stage-3.mp3",
+        "duration": 10.104,
+        "spokenText": "We’re fast enough now! The engine stops. The spacecraft separates from the rocket and keeps moving forwards."
+      }
+    },
+    "飞船正在绕着地球转圈圈！地球的引力一直拉着它，它也一直快快地向前飞。": {
+      "teacher": {
+        "src": "audio/teacher-stage-4.mp3",
+        "duration": 8.424,
+        "spokenText": "飞船正在绕着地球转圈圈！地球的引力一直拉着它，它也一直快快地向前飞。"
+      },
+      "sister": {
+        "src": "audio/sister-stage-4.mp3",
+        "duration": 8.04,
+        "spokenText": "飞船正在绕着地球转圈圈！地球的引力一直拉着它，它也一直快快地向前飞。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-stage-4.mp3",
+        "duration": 8.832,
+        "spokenText": "The spacecraft is travelling around Earth! Earth’s gravity keeps pulling it down, while it keeps moving forwards very fast."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-stage-4.mp3",
+        "duration": 10.008,
+        "spokenText": "The spacecraft is travelling around Earth! Earth’s gravity keeps pulling it down, while it keeps moving forwards very fast."
+      }
+    },
+    "你好，小小宇航员！我们一起去太空玩吧！": {
+      "teacher": {
+        "src": "audio/teacher-welcome.mp3",
+        "duration": 7.128,
+        "spokenText": "你好呀，小小宇航员！准备好了吗？我们一起去太空玩吧！"
+      },
+      "sister": {
+        "src": "audio/sister-welcome.mp3",
+        "duration": 6.888,
+        "spokenText": "你好呀，小小宇航员！准备好了吗？我们一起去太空玩吧！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-welcome.mp3",
+        "duration": 4.824,
+        "spokenText": "Hello, little astronaut! Let’s play in space together!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-welcome.mp3",
+        "duration": 5.76,
+        "spokenText": "Hello, little astronaut! Let’s play in space together!"
+      }
+    },
+    "太阳和八颗行星一起转圈圈。点一点星球，和它打招呼吧！": {
+      "teacher": {
+        "src": "audio/teacher-solar-intro.mp3",
+        "duration": 8.232,
+        "spokenText": "你看，太阳和八颗行星，正在一起转圈圈呢。点一点星球，和它打个招呼吧！"
+      },
+      "sister": {
+        "src": "audio/sister-solar-intro.mp3",
+        "duration": 8.136,
+        "spokenText": "你看，太阳和八颗行星，正在一起转圈圈呢。点一点星球，和它打个招呼吧！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-solar-intro.mp3",
+        "duration": 5.88,
+        "spokenText": "The Sun and eight planets are travelling together. Tap a planet and say hello!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-solar-intro.mp3",
+        "duration": 6.792,
+        "spokenText": "The Sun and eight planets are travelling together. Tap a planet and say hello!"
+      }
+    },
+    "和小火箭一起出发吧！先向上飞，再向旁边加速。": {
+      "teacher": {
+        "src": "audio/teacher-rocket-intro.mp3",
+        "duration": 6.384,
+        "spokenText": "我们和小火箭一起出发吧！先向上飞，再向旁边加速。"
+      },
+      "sister": {
+        "src": "audio/sister-rocket-intro.mp3",
+        "duration": 6.264,
+        "spokenText": "我们和小火箭一起出发吧！先向上飞，再向旁边加速。"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-rocket-intro.mp3",
+        "duration": 6.072,
+        "spokenText": "Let’s go with our little rocket! First fly up, then speed up sideways."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-rocket-intro.mp3",
+        "duration": 6.912,
+        "spokenText": "Let’s go with our little rocket! First fly up, then speed up sideways."
+      }
+    },
+    "我们要去地球的身边，绕着地球转圈圈。点下面的大按钮，让火箭出发！": {
+      "teacher": {
+        "src": "audio/teacher-ready.mp3",
+        "duration": 8.952,
+        "spokenText": "我们要去地球的身边，绕着地球转圈圈。准备好了，就点下面的大按钮，让火箭出发吧！"
+      },
+      "sister": {
+        "src": "audio/sister-ready.mp3",
+        "duration": 8.76,
+        "spokenText": "我们要去地球的身边，绕着地球转圈圈。准备好了，就点下面的大按钮，让火箭出发吧！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-ready.mp3",
+        "duration": 5.952,
+        "spokenText": "We’re going to fly around the Earth! Tap the big button below to launch our rocket."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-ready.mp3",
+        "duration": 7.08,
+        "spokenText": "We’re going to fly around the Earth! Tap the big button below to launch our rocket."
+      }
+    },
+    "准备好啦，小火箭马上出发！": {
+      "teacher": {
+        "src": "audio/teacher-countdown-ready.mp3",
+        "duration": 3.792,
+        "spokenText": "准备好啦，小火箭马上就要出发了！"
+      },
+      "sister": {
+        "src": "audio/sister-countdown-ready.mp3",
+        "duration": 3.912,
+        "spokenText": "准备好啦，小火箭马上就要出发了！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-countdown-ready.mp3",
+        "duration": 4.104,
+        "spokenText": "Ready! Our little rocket will launch very soon."
+      },
+      "en-sister": {
+        "src": "audio/en-sister-countdown-ready.mp3",
+        "duration": 5.136,
+        "spokenText": "Ready! Our little rocket will launch very soon."
+      }
+    },
+    "三，二，一，出发！": {
+      "teacher": {
+        "src": "audio/teacher-countdown.mp3",
+        "duration": 4.512,
+        "spokenText": "三！二！一！出发！"
+      },
+      "sister": {
+        "src": "audio/sister-countdown.mp3",
+        "duration": 4.32,
+        "spokenText": "三！二！一！出发！"
+      },
+      "en-teacher": {
+        "src": "audio/en-teacher-countdown.mp3",
+        "duration": 3.36,
+        "spokenText": "Three, two, one, lift-off!"
+      },
+      "en-sister": {
+        "src": "audio/en-sister-countdown.mp3",
+        "duration": 3.432,
+        "spokenText": "Three, two, one, lift-off!"
+      }
+    }
+  }
+}

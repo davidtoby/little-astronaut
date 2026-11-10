@@ -1,0 +1,122 @@
+[
+  {
+    "id": "planet-0",
+    "key": "你好，我是太阳！我会发光、发热。八颗行星都围着我转圈圈。",
+    "zh": "你好，我是太阳！我会发光、发热。八颗行星都围着我转圈圈。",
+    "en": "Hello, I’m the Sun! I shine and give out warmth. Eight planets travel around me."
+  },
+  {
+    "id": "planet-1",
+    "key": "我是小小的水星。我住得离太阳最近，绕太阳跑得很快！",
+    "zh": "我是小小的水星。我住得离太阳最近，绕太阳跑得很快！",
+    "en": "I’m little Mercury. I live closest to the Sun, and I travel around it very quickly!"
+  },
+  {
+    "id": "planet-2",
+    "key": "我是金星，穿着厚厚的云衣服。我的地面非常非常热！",
+    "zh": "我是金星，穿着厚厚的云衣服。我的地面非常非常热！",
+    "en": "I’m Venus. I wear a thick blanket of clouds. My ground is very, very hot!"
+  },
+  {
+    "id": "planet-3",
+    "key": "我是地球！蓝蓝的是大海，绿绿的是陆地。你和家人就住在我身上。",
+    "zh": "我是地球！蓝蓝的是大海，绿绿的是陆地。你和家人就住在我身上。",
+    "en": "I’m Earth! My oceans are blue and my land is green. You and your family live here with me."
+  },
+  {
+    "id": "planet-4",
+    "key": "我是火星，看起来红红的。小机器人正在我的地面上探索呢！",
+    "zh": "我是火星，看起来红红的。小机器人正在我的地面上探索呢！",
+    "en": "I’m Mars, the red planet. Little robots are exploring my ground!"
+  },
+  {
+    "id": "planet-5",
+    "key": "我是大大的木星。我身上有一道道条纹，还有一个大大的风暴！",
+    "zh": "我是大大的木星。我身上有一道道条纹，还有一个大大的风暴！",
+    "en": "I’m big Jupiter. I have colourful stripes and a very big storm!"
+  },
+  {
+    "id": "planet-6",
+    "key": "我是土星！我戴着漂亮的环，环里有好多冰块和小石头。",
+    "zh": "我是土星！我戴着漂亮的环，环里有好多冰块和小石头。",
+    "en": "I’m Saturn! I wear beautiful rings made of lots of icy pieces and little rocks."
+  },
+  {
+    "id": "planet-7",
+    "key": "我是天王星，穿着蓝绿色衣服。我歪得很厉害，像躺着一样！",
+    "zh": "我是天王星，穿着蓝绿色衣服。我歪得很厉害，像躺着一样！",
+    "en": "I’m Uranus. I’m blue-green, and I’m tilted so far over that I look as if I’m lying on my side!"
+  },
+  {
+    "id": "planet-8",
+    "key": "我是海王星。我离太阳最远，蓝蓝的身上刮着很大的风。",
+    "zh": "我是海王星。我离太阳最远，蓝蓝的身上刮着很大的风。",
+    "en": "I’m Neptune. I’m the planet farthest from the Sun. I’m blue and very windy!"
+  },
+  {
+    "id": "stage-0",
+    "key": "火箭喷出热热的气体，把自己向上推。我们离开地面，飞高一点！",
+    "zh": "火箭喷出热热的气体，把自己向上推。我们离开地面，飞高一点！",
+    "en": "The rocket pushes hot gas down, which pushes the rocket up. We leave the ground and climb higher!"
+  },
+  {
+    "id": "stage-1",
+    "key": "火箭飞高了，慢慢转弯。它开始向旁边飞，还要继续加速！",
+    "zh": "火箭飞高了，慢慢转弯。它开始向旁边飞，还要继续加速！",
+    "en": "The rocket is higher now. It turns gently and starts flying sideways. We still need to speed up!"
+  },
+  {
+    "id": "stage-2",
+    "key": "用完的火箭部分先分开。上面的发动机继续推，让飞船向旁边飞得越来越快！",
+    "zh": "用完的火箭部分先分开。上面的发动机继续推，让飞船向旁边飞得越来越快！",
+    "en": "The empty part of the rocket separates. The engine above keeps pushing, so the spacecraft goes faster and faster sideways!"
+  },
+  {
+    "id": "stage-3",
+    "key": "速度够啦！发动机停下来，飞船和上面的火箭分开，继续向前飞。",
+    "zh": "速度够啦！发动机停下来，飞船和上面的火箭分开，继续向前飞。",
+    "en": "We’re fast enough now! The engine stops. The spacecraft separates from the rocket and keeps moving forwards."
+  },
+  {
+    "id": "stage-4",
+    "key": "飞船正在绕着地球转圈圈！地球的引力一直拉着它，它也一直快快地向前飞。",
+    "zh": "飞船正在绕着地球转圈圈！地球的引力一直拉着它，它也一直快快地向前飞。",
+    "en": "The spacecraft is travelling around Earth! Earth’s gravity keeps pulling it down, while it keeps moving forwards very fast."
+  },
+  {
+    "id": "welcome",
+    "key": "你好，小小宇航员！我们一起去太空玩吧！",
+    "zh": "你好呀，小小宇航员！准备好了吗？我们一起去太空玩吧！",
+    "en": "Hello, little astronaut! Let’s play in space together!"
+  },
+  {
+    "id": "solar-intro",
+    "key": "太阳和八颗行星一起转圈圈。点一点星球，和它打招呼吧！",
+    "zh": "你看，太阳和八颗行星，正在一起转圈圈呢。点一点星球，和它打个招呼吧！",
+    "en": "The Sun and eight planets are travelling together. Tap a planet and say hello!"
+  },
+  {
+    "id": "rocket-intro",
+    "key": "和小火箭一起出发吧！先向上飞，再向旁边加速。",
+    "zh": "我们和小火箭一起出发吧！先向上飞，再向旁边加速。",
+    "en": "Let’s go with our little rocket! First fly up, then speed up sideways."
+  },
+  {
+    "id": "ready",
+    "key": "我们要去地球的身边，绕着地球转圈圈。点下面的大按钮，让火箭出发！",
+    "zh": "我们要去地球的身边，绕着地球转圈圈。准备好了，就点下面的大按钮，让火箭出发吧！",
+    "en": "We’re going to fly around the Earth! Tap the big button below to launch our rocket."
+  },
+  {
+    "id": "countdown-ready",
+    "key": "准备好啦，小火箭马上出发！",
+    "zh": "准备好啦，小火箭马上就要出发了！",
+    "en": "Ready! Our little rocket will launch very soon."
+  },
+  {
+    "id": "countdown",
+    "key": "三，二，一，出发！",
+    "zh": "三！二！一！出发！",
+    "en": "Three, two, one, lift-off!"
+  }
+]

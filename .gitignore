@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.venv*/
+__pycache__/
+*.pyc
+logs/
+voice-work/
+*.tmp
+*.tmp.mp3
+.env
+.env.*
+*.token
+*.key
+页面预览.png
+女声配音按钮.png
